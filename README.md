@@ -1,4 +1,5 @@
-# Dreamshare #project #studies
-Dreamshare webpage project
-Languages/framework/libraries used:
-HTML, CSS, Bootstrap, JavaScript, jQuery
+# Dreamshare
+## *Webpage project for studies*
+
+`Languages/frameworks/libraries used:`  
+`HTML, CSS, Bootstrap, JavaScript, jQuery` 
