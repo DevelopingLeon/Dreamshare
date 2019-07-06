@@ -2,4 +2,8 @@
 ## *Webpage project for studies*
 
 `Languages/frameworks/libraries used:`  
-`HTML, CSS, Bootstrap, JavaScript, jQuery` 
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* jQuery
